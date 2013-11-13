@@ -1,0 +1,11 @@
+
+LIBRERIAS QUE CONTIENE ESTE PROYECTO:
+
+1. itextpdf-5.4.1: Esta libreria es para pasar datos a un pdf.
+
+2. jcalendar-1.4: Sirve para mostrar un calendario como se utilizo en Almacen MVC.
+
+3. seaglasslookandfeel-0.2: Sirve para darle una mejor apariencia look and feel.
+
+4. mysql-connector-java-5.1.16-bin: Sirve para conectar a la BD de Mysql.
+
